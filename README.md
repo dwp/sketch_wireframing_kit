@@ -5,8 +5,8 @@ The Sketch wireframing kit provides a simple way to make static prototypes that 
 
 It is designed around these GOV.UK resources:
 
-[GOV.UK elements](https://github.com/alphagov/govuk_elements "GOV.UK elements")
-[GOV.UK template](https://github.com/alphagov/govuk_template "GOV.UK template")
+[GOV.UK elements](https://github.com/alphagov/govuk_elements "GOV.UK elements")<br />
+[GOV.UK template](https://github.com/alphagov/govuk_template "GOV.UK template")<br />
 [GOV.UK front end toolkit](https://github.com/alphagov/govuk_frontend_toolkit "GOV.UK front end toolkit")
 
 # Requirements
