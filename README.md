@@ -25,13 +25,17 @@ The wireframing kit comes with elements for both desktop and mobile. To switch b
 
 ### Inserting a symbol
 
-Symbols are Sketch's way of importing an element that has already been created. It allows you to simply drop in the GOV.uk elements, without needing to build them yourself every time. To insert a symbol into your wireframe, choose the 'insert' button, and then hover over 'symbol'. This will show a list of desktop and mobile symbols that are available to import. **It is important to detach any imported symbols to avoid overwriting the default elements supplied with the kit. See below to learn how to do this**
+Symbols are Sketch's way of importing an element that has already been created. It allows you to simply drop in the GOV.uk elements, without needing to build them yourself every time. To insert a symbol into your wireframe, choose the 'insert' button, and then hover over 'symbol'. This will show a list of desktop and mobile symbols that are available to import. 
+
+**It is important to detach any imported symbols to avoid overwriting the default elements supplied with the kit. See below to learn how to do this**
 
 ![Insert Symbol](/../screen_shots/screenshots/sketch_insert.png?raw=true "Insert Symbol")
 
 ### Switching a symbol
 
-If you have an element already inserted, and you want to change it to a different one (for example you have a standard button and you want to change it for a disabled one), you can do so my choosing the folder from the layers list, and then switching the symbol from the sidebar. **It is important to detach any switched symbols to avoid overwriting the default elements supplied with the kit. See below to learn how to do this**
+If you have an element already inserted, and you want to change it to a different one (for example you have a standard button and you want to change it for a disabled one), you can do so my choosing the folder from the layers list, and then switching the symbol from the sidebar. 
+
+**It is important to detach any switched symbols to avoid overwriting the default elements supplied with the kit. See below to learn how to do this**
 
 ![Switch Symbol](/../screen_shots/screenshots/sketch_switching_symbols.png?raw=true "Switch Symbol")
 
