@@ -21,7 +21,7 @@ The wireframing kit has several features which make static prototyping quick and
 
 The wireframing kit comes with elements for both desktop and mobile. To switch between the different device types click the link at the top of the sidebar. You can ignore the symbol editor, unless you want to edit the default import symbols.
 
-![Desktop or Mobile](/../screen_shots/screenshots/sketch_pages.png?raw=true "Desktop or Mobile")
+![Desktop or Mobile](/../screen_shots/screenshots/sketch_pages.gif?raw=true "Desktop or Mobile")
 
 ### Inserting a symbol
 
@@ -45,4 +45,4 @@ If you have an element already inserted, and you want to change it to a differen
 
 To detach a symbol, right click the purple symbol folder in the layers list, and choose 'detach from symbol'. This will create a copy of the defult symbol, so you can edit it without altering the default elements.
 
-![Detach Symbol](/../screen_shots/screenshots/sketch_detach_from_symbol.png?raw=true "Detach Symbol")
+![Detach Symbol](/../screen_shots/screenshots/sketch_detach_from_symbol.gif?raw=true "Detach Symbol")
